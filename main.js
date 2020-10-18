@@ -13,7 +13,7 @@ function info(){
 function clothes(){
   num = 2;
   main = document.getElementById("main");
-  main.innerHTML = '<p><br><h2>Double Hole Jacket.</h2> by 2019 12 <br><img class = "C1" src="./Asset/Jacket1.png" alt="WE" height = 250></img>'+
+  main.innerHTML = '<p><br><h2>Double Hole Jacket.</h2> by 2019 12 <br><img class = "C1" src="./Asset/Jacket1.PNG" alt="WE" height = 250></img>'+
   '<img  class = "C2" src="./Asset/Jacket2.jpg" alt="WE" height = 250></img></p>'+
   '<p><br><h2>Printing T-shirts.</h2> by 2020 04 <br><img class = "C3" src="./Asset/t-shirts1.jpg" alt="WE" height = 250></img>'+
   '<img  class = "C4" src="./Asset/t-shirts2.jpg" alt="WE" height = 250></img></p>'
