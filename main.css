@@ -1,0 +1,77 @@
+body {
+    font-family: "Noto Sans", sans-serif;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    margin-top: 4% !important;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Fixed {
+    margin-top: 20%;
+    position: fixed;
+    margin-right: 10%;
+    color: white;
+    
+}
+.Logo{
+    max-width : 100%;
+
+}
+.Flower{
+    max-width : 23%;
+}
+
+.Main{
+    max-width : 80%;  
+}
+.scroll{
+    overflow:auto;
+}
+.C1{
+    max-width : 100%;
+    max-height : auto;
+    /* margin-left: 20%; */
+}
+.C2{
+    max-width : 100%;
+    max-height : auto;
+}
+.C3{
+    max-width : 100%;
+    max-height : auto;
+}
+.C4{
+    max-width : 100%;
+    max-height : auto;
+}
+button{
+    color: white;
+    background-color: black;
+    margin-bottom: 5%;
+    font-size : 16px;
+    border : 0px;
+}
+div{
+    color: white;
+}
+@media(min-width: 768px){
+    div{
+        font-size:14px;
+    }
+    .Fixed{
+        font-size:16px;
+        max-width: 60px;
+        min-width: 30px;
+    }
+}
+@media(max-width: 768px){
+    div{
+        font-size:10px;
+    }
+    .Fixed{
+        font-size:12px;
+    }
+}
+/* button:focus{outline:none;} */
