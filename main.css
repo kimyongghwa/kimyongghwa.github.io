@@ -46,6 +46,10 @@ body {
     max-width : 100%;
     max-height : auto;
 }
+.A{
+    max-width : 100%;
+    max-height : auto;
+}
 button{
     color: white;
     background-color: black;
@@ -74,4 +78,4 @@ div{
         font-size:12px;
     }
 }
-/* button:focus{outline:none;} */
+button:focus{outline:none;}

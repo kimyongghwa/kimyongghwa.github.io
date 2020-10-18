@@ -1,9 +1,9 @@
 var num = 0;
 var main;
-function main(){
+function gomain(){
   num = 0;
   main = document.getElementById("main");
-  main.innerHTML = '<img src="./Asset/MAIN.png" alt="WE"></img>'
+  main.innerHTML = ' <img class = "Main" src="./Asset/MAIN.png" width = 1000 alt="WE"></img>'
 }
 function info(){
   num = 1;
