@@ -97,40 +97,38 @@ div{
     div{
         font-size:6px;
     }
-    .sideMenu{
-        width: 0px;
-        left: 0;
-        
-    }
     .Fixed{
         width: 0%;
         text-align: left;
     }
     .FixedL{
-        font-size:9px;
+        font-size:11px;
     }
     .FixedB{
-        font-size:9px;
+        font-size:11px;
     }
     .C1{
         max-width : 20%;
-        height : 160px;
+        height : 140px;
         /* margin-left: 20%; */
     }
     .C2{
         max-width : 40%;
-        height : 160px;
+        height : 140px;
     }
     .C3{
         max-width : 40%;
-        height : 160px;
+        height : 140px;
     }
     .C4{
         max-width : 20%;
-        height : 160px;
+        height : 140px;
     }
     .A{
         max-width : 40%;
+    }
+    .Main{
+        max-width : 65%;
     }
 }
 button:focus{outline:none;}
