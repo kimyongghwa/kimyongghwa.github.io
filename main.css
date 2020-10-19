@@ -13,7 +13,7 @@ body {
     box-sizing: border-box;
 }
 .Fixed {
-    margin-top: 5%;
+    margin-top: 10%;
     position: fixed;
     color: white;
     left: 0;
