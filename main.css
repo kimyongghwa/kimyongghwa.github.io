@@ -108,21 +108,21 @@ div{
         font-size:11px;
     }
     .C1{
-        max-width : 20%;
-        height : 70px;
+        max-width : 35%;
+        height : 120px;
         /* margin-left: 20%; */
     }
     .C2{
-        max-width : 40%;
-        height : 70px;
+        max-width : 70%;
+        height : 120px;
     }
     .C3{
-        max-width : 40%;
-        height : 70px;
+        max-width : 35%;
+        height : 120px;
     }
     .C4{
-        max-width : 20%;
-        height : 70px;
+        max-width : 70%;
+        height : 120px;
     }
     .A{
         max-width : 40%;
