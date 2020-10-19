@@ -97,31 +97,37 @@ div{
     div{
         font-size:6px;
     }
+    .sideMenu{
+        width: 0px;
+        left: 0;
+        
+    }
     .Fixed{
         width: 0%;
+        text-align: left;
     }
     .FixedL{
-        font-size:2px;
+        font-size:9px;
     }
     .FixedB{
-        font-size:2px;
+        font-size:9px;
     }
     .C1{
         max-width : 20%;
-        max-height : 17%;
+        height : 160px;
         /* margin-left: 20%; */
     }
     .C2{
         max-width : 40%;
-        max-height : 17%;
+        height : 160px;
     }
     .C3{
         max-width : 40%;
-        max-height : 17%;
+        height : 160px;
     }
     .C4{
         max-width : 20%;
-        max-height : 17%;
+        height : 160px;
     }
     .A{
         max-width : 40%;
