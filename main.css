@@ -17,7 +17,7 @@ body {
     position: fixed;
     color: white;
     left: 0;
-    right : auto;
+    right : 100%;
 }
 .Logo{
     max-width : 100%;
@@ -34,24 +34,24 @@ body {
     overflow:auto;
 }
 .C1{
-    max-width : 100%;
+    max-width : 80%;
     max-height : auto;
     /* margin-left: 20%; */
 }
 .C2{
-    max-width : 100%;
+    max-width : 80%;
     max-height : auto;
 }
 .C3{
-    max-width : 100%;
+    max-width : 80%;
     max-height : auto;
 }
 .C4{
-    max-width : 100%;
+    max-width : 80%;
     max-height : auto;
 }
 .A{
-    max-width : 100%;
+    max-width : 80%;
     max-height : auto;
 }
 button{
@@ -71,13 +71,60 @@ div{
     .Fixed{
         font-size:16px;
     }
+    .C1{
+        max-width : 80%;
+        max-height : auto;
+        /* margin-left: 20%; */
+    }
+    .C2{
+        max-width : 80%;
+        max-height : auto;
+    }
+    .C3{
+        max-width : 80%;
+        max-height : auto;
+    }
+    .C4{
+        max-width : 80%;
+        max-height : auto;
+    }
+    .A{
+        max-width : 80%;
+        max-height : auto;
+    }
 }
 @media(max-width: 768px){
     div{
-        font-size:10px;
+        font-size:6px;
     }
     .Fixed{
-        font-size:12px;
+        width: 0%;
+    }
+    .FixedL{
+        font-size:2px;
+    }
+    .FixedB{
+        font-size:2px;
+    }
+    .C1{
+        max-width : 20%;
+        max-height : 17%;
+        /* margin-left: 20%; */
+    }
+    .C2{
+        max-width : 40%;
+        max-height : 17%;
+    }
+    .C3{
+        max-width : 40%;
+        max-height : 17%;
+    }
+    .C4{
+        max-width : 20%;
+        max-height : 17%;
+    }
+    .A{
+        max-width : 40%;
     }
 }
 button:focus{outline:none;}
