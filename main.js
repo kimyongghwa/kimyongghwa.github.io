@@ -8,7 +8,7 @@ function gomain(){
 function info(){
   num = 1;
   main = document.getElementById("main");
-  main.innerHTML = '<br><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 250><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 250><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 250><div id = "info"><br><br><h3>김 준 서(김 용 과)</h3><br><br>010-4921-8785<br><br>tommy030507@naver.com</div>'
+  main.innerHTML = '<p><br><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 250><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 250><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 250><div id = "info"><br><br><h3>김 준 서(김 용 과)</h3><br><br>010-4921-8785<br><br>tommy030507@naver.com</div></p>'
 }
 function clothes(){
   num = 2;
