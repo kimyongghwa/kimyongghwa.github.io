@@ -3,12 +3,12 @@ var main;
 function gomain(){
   num = 0;
   main = document.getElementById("main");
-  main.innerHTML = ' <img class = "Main" src="./Asset/MAIN.png" width = 1000 alt="WE"></img>'
+  main.innerHTML = ' <img class = "Main" src="./Asset/MAIN.png" width = 1000 alt="WE"></img><h3>Love.</h3> BY @kimyongghwa'
 }
 function info(){
   num = 1;
   main = document.getElementById("main");
-  main.innerHTML = '<p><br><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 250><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 250><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 250><div id = "info"><br><br><h3>김 준 서(김 용 과)</h3><br><br>010-4921-8785<br><br>tommy030507@naver.com</div></p>'
+  main.innerHTML = '<p><br><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 300><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 300><img src="./Asset/Sicmul.png" class = "Flower" alt="WE" width = 300><div class = "info"><br><br><h3>김 준 서(18세)</h3><br>010-4921-8785<br><br>tommy030507@naver.com</div></p>'
 }
 function clothes(){
   num = 2;
