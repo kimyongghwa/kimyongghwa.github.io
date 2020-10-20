@@ -107,15 +107,11 @@ div{
     div{
         font-size:6px;
     }
-    .Fixed{
-        width: 0%;
-    }
     .FixedL{
         font-size:11px;
     }
     .FixedB{
         font-size:11px;
-        width : 40%;
     }
     .C1{
         max-width : 35%;
